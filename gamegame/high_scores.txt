@@ -1,0 +1,6 @@
+Alde,1052,5
+Causallero,121,3
+Aldes,14,1
+Alde,16,1
+Aldes,87,2
+Rukia,132,3
